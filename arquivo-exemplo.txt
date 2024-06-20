@@ -1,0 +1,9 @@
+public class OlaMundo {
+
+       public static void main(String[] args){
+               //Exibe a frase "Ola Mundo!" no console,
+System.out.println("Ola Mundo!");
+
+
+}//fim da classe "OlaMundo"    
+}
